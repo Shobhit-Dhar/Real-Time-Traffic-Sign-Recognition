@@ -1,6 +1,3 @@
-Of course, here is a `README.md` file generated from the provided Python code.
-
----
 
 # Traffic Sign Classification using CNN
 
